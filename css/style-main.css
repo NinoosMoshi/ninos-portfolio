@@ -127,14 +127,7 @@ h5{color: #cf455c;}
 .text-color {
     color: #cf455c;
 }
-/* .right-skills:after,.right-skills:before { */
-    /* content: ""; */
-    /* position: absolute; */
-    /* width: 101px; */
-    /* height: 54px; */
-    /* background: #edde45; */
-    /* left: -160px; */
-/* } */
+
 .right-skills:after {
     bottom: 0px;
 }
@@ -299,16 +292,6 @@ h5{color: #cf455c;}
 }
 
 
-/*
-.sn {
-  width: 68px;
-  height: 68px;
-  background-image: url("../img/java.png");
-  border-radius: 50%;
-  background-position: -23px 0px;  
-  background-size: cover;
-}
-*/
 
 
 .sn {

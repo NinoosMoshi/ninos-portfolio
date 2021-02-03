@@ -90,6 +90,11 @@ jQuery(document).ready(function($){
 	/* ---------------------------------------------------------------------- */
 	/*	Portfolio
 	/* ---------------------------------------------------------------------- */ 
+    
+    
+    
+    
+    
 	
 	// Needed variables
 	var $plist = $('#portfolio-list');
@@ -100,8 +105,9 @@ jQuery(document).ready(function($){
 		filter : '*',
 		layoutMode : 'masonry',
 		animationOptions : {
-		duration : 750,
-		easing : 'linear'
+		duration : 750,    
+		easing : 'linear',
+          
 	   }
 	});	
 	
@@ -114,6 +120,7 @@ jQuery(document).ready(function($){
 				duration : 750,
 				easing : 'linear',
 				queue : false,
+            
 			}
 		});
 		return false;
